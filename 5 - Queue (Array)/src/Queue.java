@@ -143,8 +143,6 @@ public class Queue {
     
     /**
      * Show queuen from the first to last
-     * 
-     * TODO: wrong, because 0 and 1 position could be 4 and 5 positions
      */
     public void show() {
         if (this.isEmpty()) return;
